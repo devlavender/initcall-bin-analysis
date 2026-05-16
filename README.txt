@@ -34,7 +34,17 @@ This will create a directory
 /path/to/output/tree/BUILD-SCENARIO/CONFIG-SCENARIO/ containing the collected
 data.
 
-3. COPYRIGHT
+3. DOWNLOAD
+===========
+
+To get the sources, look at the official URL:
+https://git.sr.ht/~devlavender/initcall-bin-analysis
+
+Mirrors:
+- Github: https://github.com/devlavender/initcall-bin-analysis
+- Gitlab: https://gitlab.com/kernel-development/initcall-bin-analysis#
+
+4. COPYRIGHT
 ============
 
 This tool have been written by Agatha Isabelle Moreira and is license under the
